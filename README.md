@@ -13,9 +13,11 @@ Task 4: Fit your values with arange function using feature sacling.
 Task 5: Check your model accuracy and precision using confusion matrix
 
 Project Approach :
+
 ![image](https://github.com/Pankajpanday29/LinearRegression1-Project/assets/128885642/4073623d-2293-441f-9133-60d1b8844d0c)
 
 Project Accuracy :
+
 ![image](https://github.com/Pankajpanday29/LinearRegression1-Project/assets/128885642/a12827b6-409f-44e7-abd0-745959e02c7c)
 
 **conclusion**: According to model analysis the LogisticRegression algorithm works succesfully with 0.6 accuracy.
